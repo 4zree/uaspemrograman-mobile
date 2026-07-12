@@ -90,9 +90,6 @@ Kredensial ini bisa diganti bebas di satu tempat: `src/context/AuthContext.js`
 - **Sesi login** disimpan di `AsyncStorage` supaya tidak perlu login ulang
   setiap membuka aplikasi.
 
-## 📦 Pengumpulan Tugas
-
-Jangan lupa lengkapi sebelum submit:
-1. Push project ini ke repository GitHub kamu.
-2. Rekam video demo aplikasi berjalan (durasi bebas), unggah ke YouTube/Google Drive.
-3. Kumpulkan sebelum tenggat: **09 Juli 2026**.
+nama : muhammad asri febrian
+kelas : 6B
+npm : 233510436
